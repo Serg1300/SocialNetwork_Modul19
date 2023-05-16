@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8l7RsCcriI0IsAlamXrGBceFeKus89isHz49sjU43a2O0aRx/0cbYBL9WNDpjtWQyvykAtuB1aaokJYvzNt/kg==",
+  "success": true,
+  "projectFilePath": "E:\\SkilFact\\SocialNetwork\\SocialNetwork\\SocialNetwork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kul3\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\kul3\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\kul3\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
